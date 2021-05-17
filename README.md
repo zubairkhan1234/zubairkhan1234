@@ -20,7 +20,7 @@ Now I'm student and as well as developer
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Muhammad Zubair' height='40'>](https://www.linkedin.com/in/muhammad-zubair-59958b208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Muhammad Zubair' height='40'>](https://www.facebook.com/profile.php?id=100014921291214/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='zubair12369' height='40'>](https://www.instagram.com/instagram.com/zubair12369)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Muhammad Zubair' height='40'>](https://twitter.com/twitter.com/Muhamma67425784)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Muhammad Zubair' height='40'>](https://www.linkedin.com/in/muhammad-zubair-59958b208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Muhammad Zubair' height='40'>](https://www.facebook.com/profile.php?id=100014921291214/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='zubair12369' height='40'>](https://instagram.com/zubair12369)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Muhammad Zubair' height='40'>](https://twitter.com/Muhamma67425784)  
 
 
 	---
